@@ -21,10 +21,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edulumulu&show_icons=true&theme=radical)
 
 ## 📫 Contáctame  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lucas-mu%C3%B1oz-de-lucas-551a64113/)  
+<a href="https://www.linkedin.com/in/eduardo-lucas-mu%C3%B1oz-de-lucas-551a64113/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/EduardoLucasMunoz)  
-
+<a href="https://linktr.ee/EduardoLucasMunoz" target="_blank">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
 
 
 
