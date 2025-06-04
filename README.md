@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Eduardo Lucas
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-🚀 Interesado en **Java, Android, Odoo, ERP y bases de datos**  
-📚 Aprendiendo actualmente **JDBC, Odoo 17 y Visual Studio **  
+🚀 Interesado en **Java, php, Android, Odoo, ERP y bases de datos**  
+📚 Aprendiendo actualmente **php**  
 
 ## 🛠 Tecnologías y Herramientas  
 
@@ -15,6 +15,9 @@
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-47A248?style=for-the-badge&logo=pgadmin&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)  ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
 ## 📂 Repositorios Destacados  
